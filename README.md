@@ -67,9 +67,9 @@
  
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=souro12345&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Souro-23&show_icons=true&hide_border=true" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souro12345&layout=compact)](https://github.com/souro12345/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souro-23&layout=compact)](https://github.com/Souro-23/github-readme-stats)
 
 
 
